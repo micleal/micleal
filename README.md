@@ -8,6 +8,14 @@
   <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=micleal&layout=compact&langss_count=16&theme=onedark'>
 </div>
 
+<img style='border-radius: 5px;' src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white'>
+<img style='border-radius: 5px;' src='https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white'>
+<img style='border-radius: 5px;' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
+<img style='border-radius: 5px;' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
+<img style='border-radius: 5px;' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
+<img style='border-radius: 5px;' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
+<img style='border-radius: 5px;' src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white'>
+
 ##
 
 <div style='display: flex; align-items: center; justify-content: center;'>
