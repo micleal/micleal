@@ -1,4 +1,4 @@
-## Hi! I'm Michael Anthony Leal Costa
+## Hi, I'm Michael!
 
 - 📚 Learning <a href='https://nextjs.org'>Next.JS</a>
 
