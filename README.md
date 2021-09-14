@@ -11,6 +11,5 @@
 ##
 
 <div style='display: flex; align-items: center; justify-content: center;'>
-  <a href="mailto:michael.leal.costa@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-'></a>
+  <a href="mailto:michael.leal.costa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
