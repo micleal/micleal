@@ -20,7 +20,7 @@
 ##
 
 <div style='display: flex; align-items: center; justify-content: center;'>
-  <a href="mailto:michael@micleal.dev">
+  <a href="mailto:github@micleal.dev">
     <img style='border-radius: 5px;' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
