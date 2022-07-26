@@ -1,11 +1,11 @@
-## Hi, I'm Michael!
+# Hi, I'm Michael!
 
 - 📚 Learning <a href='https://nextjs.org'>Next.JS</a>, <a href='https://vuejs.org'>Vue.js</a> & <a href='https://unity.com'>Unity</a>
 
 <div>
   <a href="http://github.com/micleal" target="_blank" style='text-decoration: none;'>
-    <img height='180em' src='https://github-readme-stats.vercel.app/api?username=micleal&show_icons=true&theme=onedark&include_all_commits=true&count_private=true'>
-    <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=micleal&layout=compact&langss_count=16&theme=onedark'>
+    <img height='180em' src='https://github-readme-stats.vercel.app/api?username=micleal&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true'>
+    <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=micleal&layout=compact&langss_count=10&theme=github_dark'>
 </div>
 <div>
   <img style='border-radius: 5px;' src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white'>
