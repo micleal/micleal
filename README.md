@@ -4,8 +4,8 @@
 
 <div style='display: flex; flex-direction: column;'>
   <a href="http://github.com/micleal" target="_blank" style='text-decoration: none;'>
-    <img height='180em' src='https://github-readme-stats.vercel.app/api?username=micleal&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true'>
-    <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=micleal&layout=compact&langss_count=10&theme=github_dark'>
+    <img height='180em' width='100%' src='https://github-readme-stats.vercel.app/api?username=micleal&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true'>
+    <img height='180em' width='100%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=micleal&layout=compact&langss_count=10&theme=github_dark'>
 </div>
 <div>
 <a href='https://github.com/micleal?tab=repositories&q=csharp'>
