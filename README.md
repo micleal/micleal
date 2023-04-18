@@ -2,7 +2,7 @@
 
 - 📚 Learning <a href='https://vuejs.org'>Vue.js</a>
 
-<div style='display: flex;'>
+<div style='display: flex; flex-direction: column;'>
   <a href="http://github.com/micleal" target="_blank" style='text-decoration: none;'>
     <img height='180em' src='https://github-readme-stats.vercel.app/api?username=micleal&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true'>
     <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=micleal&layout=compact&langss_count=10&theme=github_dark'>
