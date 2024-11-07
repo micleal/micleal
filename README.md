@@ -11,7 +11,7 @@
 
   </div>
 
-  <div style='display: flex; gap: 5px; justify-content: center; align-items: center;'>
+  <!-- Display badges in a flex container -->
   <a href='https://github.com/micleal?tab=repositories&q=csharp''>
     <img style='border-radius: 5px;' src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white'>
     </a>
